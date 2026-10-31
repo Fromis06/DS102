@@ -8,3 +8,9 @@ __pycache__/
 .venv/
 env/
 venv/
+
+*data/
+
+*Đồ án/
+
+*Bài tập/
